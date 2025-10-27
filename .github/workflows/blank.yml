@@ -16,6 +16,7 @@ jobs:
         with:
           config_timezone: Europe/Paris
           token: ${{ secrets.METRICS_TOKEN }}
+          user: Eugenio-BAYE
           base: header
           config_display: large
           plugin_isocalendar: yes
