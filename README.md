@@ -15,7 +15,7 @@
 I’m eager to contribute to <b>innovative projects</b>, collaborate with <b>talented teams</b>,  
 and continuously learn <b>cutting-edge technologies</b>.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eugenio-BAYE&show_icons=true&theme=transparent&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eugenio-BAYE&show_icons=true&theme=transparent&hide_border=true" height="300" />
 
 <p align="center">
   <a href="https://eugeniobaye.fr">
@@ -36,4 +36,5 @@ and continuously learn <b>cutting-edge technologies</b>.
 
 *Code passionnément* 💡
 </div>
+
 
