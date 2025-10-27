@@ -15,8 +15,11 @@ Passionné par le développement logiciel et les technologies innovantes. Je dé
 - Application de messagerie client-serveur
 - Projet IoT Raspberry Pi
 
+![Metrics](/github-metrics.svg)
+
 ### 📫 Me Contacter
 - [LinkedIn](https://www.linkedin.com/in/eugénio-baye/)
 - [Email](mailto:baye.eugenio.egnb@gmail.com)
 
 *Code passionnément* 💡
+
