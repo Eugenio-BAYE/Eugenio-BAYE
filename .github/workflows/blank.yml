@@ -17,7 +17,8 @@ jobs:
           config_timezone: Europe/Paris
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          config_display: large
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_stars: yes
-          config_order: base.header, isocalendar, languages, stars
+          plugin_habits: yes
+          config_order: base.header, isocalendar, languages, habits
